@@ -76,64 +76,23 @@ Technical Skills
 
 
 Data Visualization: Power BI
-
-
-
 SQL: SQL Server (query optimization)
-
-
-
 Power Query: Data cleaning and transformation
-
-
-
-DAX: Writing efficient formulas for data analysis
-
-
-
+DAX: Writing efficient formulas for data analysi
 Data Modeling: Structuring data for insights
-
-
-
 Data Cleaning & Transformation: Ensuring data quality
 
 Tools
-
-
-
-
-
 Power BI
-
-
-
 Microsoft Office
-
-
-
 SQL Server
 
 Languages
-
-
-
-
-
 English: Fluent
-
-
-
 Urdu: Fluent
 
 Certifications
-
-
-
-
-
 IT, Microsoft 365 | JIIT
-
-
 
 Complete Data Analysis Project | Great Learning
 
