@@ -1,4 +1,5 @@
-Abu Bakar Awan - Data Analyst Portfolio
+##Abu Bakar Awan 
+Data Analyst Portfolio
 
 Welcome to my GitHub portfolio! I'm a passionate Data Analyst with expertise in transforming complex data into actionable insights. This portfolio showcases my projects, skills, and professional journey in data analysis, visualization, and data-driven decision-making.
 
